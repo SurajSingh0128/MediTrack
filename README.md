@@ -1,5 +1,7 @@
 # MediTrack
 A health management platform to store records and medication reminders
+User Panel - https://meditrack-frontend.onrender.com
+Admin/Doctor Panel - https://meditrack-admin.onrender.com
 # 🩺 MediTrack
 
 **MediTrack** is a full-stack health management platform designed to help users take control of their medical data, schedule medications, and track their health metrics—all in one place.
